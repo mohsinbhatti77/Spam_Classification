@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+regex
+joblib
+imbalanced-learn
+tqdm
+jupyter
+setuptools
+-e .
